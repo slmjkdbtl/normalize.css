@@ -4,7 +4,8 @@ LIB
 -2	add stylus version
 -2	add less version
 +-1	npm package
+-3	postcss plugin
 
 MISC
 
--3	add demo site
+-1	add demo site

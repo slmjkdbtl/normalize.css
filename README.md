@@ -15,7 +15,7 @@ yarn add @slmjkdbtl/normalize.css
 ```
 **CDN**
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@slmjkdbtl/normalize.css@1.0.1/normalize.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@slmjkdbtl/normalize.css@1.0.3/normalize.min.css">
 ```
 
 inspired by [BreoganHackett's tweet](https://twitter.com/BreoganHackett/status/991687076029575168)
