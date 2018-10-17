@@ -1,9 +1,0 @@
-{
-	"name": "@slmjkdbtl/normalize.css",
-	"version": "1.0.3",
-	"description": "make the web the way it should be",
-	"main": "normalize.css",
-	"repository": "https://github.com/slmjkdbtl/normalize.css.git",
-	"author": "wengwengweng <voygagaga@outlook.com>",
-	"license": "WTFPL"
-}
